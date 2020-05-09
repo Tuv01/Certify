@@ -1,6 +1,5 @@
 # Certify
     Bachelor Thesis
-    Thema: 
     Certification of University Degrees through Smart Contracts using a Mobile Application.
     (FHWS) University of applied sciences Würzburg-Schweinfurt 
 * Android (Kotlin)
