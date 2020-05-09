@@ -5,7 +5,7 @@
 * Android (Kotlin)
 * Java Wrapper
 * Ethereum Blockchain
-  * Contract adress: https://ropsten.etherscan.io/address/0xe83f8ea125224ab293640829d5e4f3e0e5b1bb24
+  * Contract address: https://ropsten.etherscan.io/address/0xe83f8ea125224ab293640829d5e4f3e0e5b1bb24
 * Solidity
 * Infura
 * Web3j
